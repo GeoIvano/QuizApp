@@ -12,15 +12,14 @@ import { getStorage } from "firebase/storage";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBvDbJb1tM4dbICwXckgLuFm1QPcSSTj74",
-  authDomain: "quizcraft-76a19.firebaseapp.com",
-  projectId: "quizcraft-76a19",
-  storageBucket: 'gs://quizcraft-76a19.appspot.com',
-  messagingSenderId: "642106802855",
-  appId: "1:642106802855:web:f33754f1c53252306d5182",
-  databaseURL: "https://quizcraft-76a19-default-rtdb.europe-west1.firebasedatabase.app/",
-  measurementId: "G-GZTT7PP9WC"
-
+  apiKey: "AIzaSyDctnmaXFfIUzgS7qlTLQLnfYcUjSqp8KA",
+  authDomain: "quizapp-10172.firebaseapp.com",
+  databaseURL: "https://quizapp-10172-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "quizapp-10172",
+  storageBucket: "quizapp-10172.appspot.com",
+  messagingSenderId: "453628766168",
+  appId: "1:453628766168:web:cb0bea949de1b4000df4ad",
+  measurementId: "G-H69L8FTKN9"
 };
 
 
